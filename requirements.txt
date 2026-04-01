@@ -1,0 +1,26 @@
+# ========== AI Agent 核心框架 ==========
+langchain>=1.2.14
+langchain-core>=1.2.23
+langchain-community>=0.4.1
+langgraph>=1.1.4
+langgraph-checkpoint>=4.0.1
+langgraph-prebuilt>=1.0.8
+langsmith>=0.7.23
+
+# ========== LLM 模型客户端 ==========
+langchain-openai>=1.1.12
+langchain-ollama>=0.2.0
+openai>=2.30.0
+
+# ========== 数据与工具 ==========
+pandas>=2.3.3
+numpy>=2.2.6
+python-dateutil>=2.9.0
+python-dotenv>=1.2.2
+yfinance>=1.2.0
+stockstats>=0.6.8
+
+# ========== 基础工具 ==========
+pydantic>=2.12.5
+requests>=2.33.1
+tqdm>=4.67.3
