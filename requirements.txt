@@ -9,7 +9,7 @@ langsmith>=0.7.23
 
 # ========== LLM 模型客户端 ==========
 langchain-openai>=1.1.12
-langchain-ollama>=0.2.0
+langchain-ollama>=0.3.0
 openai>=2.30.0
 
 # ========== 数据与工具 ==========
