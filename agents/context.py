@@ -1,7 +1,8 @@
 class Context:
     """
-    标准Agent运行上下文，执行任务全过程的状态与记忆
+    基础上下文工程，记录Agent运行过程中的状态与记忆
     """
+
     # 唯一标识
     session_id: str       # 会话 ID
     user_id: str          # 用户 ID

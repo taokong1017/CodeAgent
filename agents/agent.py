@@ -2,7 +2,6 @@ from langchain.agents import create_agent
 from langchain_openai import ChatOpenAI
 from typing import List
 
-
 class Agent:
     def __init__(
         self,
